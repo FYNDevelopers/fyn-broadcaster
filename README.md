@@ -168,7 +168,7 @@ For technical support or licensing inquiries:
 
 ## Credits
 
-Developed by **FYNN YATES NETWORK DEVELOPERS**
+Developed by <a href="https://fyndevelopers.com">**FYNN YATES NETWORK DEVELOPERS**</a>
 
 ---
 
