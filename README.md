@@ -13,7 +13,7 @@
 
 ## Download
 
-**<a href="https://fynradio.com/software/fyn-broadcaster/FYN Broadcaster_Setup_1.2.0.exe">Download FYN Broadcaster Setup</a>**
+**<a href="https://download.fynradio.com/FYN%20Broadcaster%20Setup%201.2.0.exe">Download FYN Broadcaster Setup</a>**
 
 ---
 
