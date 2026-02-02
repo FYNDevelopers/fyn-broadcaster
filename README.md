@@ -67,12 +67,7 @@
 
 ## Getting Started
 
-### 1. Activate Your License
-- Enter your license key in the activation screen
-- Provide your radio station name and contact email
-- Click **Activate License**
-
-### 2. Configure Streaming Settings
+### 1. Configure Streaming Settings
 Click the **Settings** button and enter your streaming server details:
 
 | Setting | Description |
@@ -86,12 +81,12 @@ Click the **Settings** button and enter your streaming server details:
 | Bitrate | Audio quality (64-320 kbps) |
 | Sample Rate | 44100 Hz or 48000 Hz |
 
-### 3. Configure Recording Settings
+### 2. Configure Recording Settings
 - Set your **Output Folder** for saved recordings
 - Upload your **Station Logo** 
 - Choose **Segment Duration**: 30 or 60 minutes
 
-### 4. Start Broadcasting
+### 3. Start Broadcasting
 - Select your **Audio Source** from the dropdown
 - Click **Start Streaming** to go live
 - Click **Start Recording** to archive your broadcast
