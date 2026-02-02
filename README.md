@@ -162,7 +162,7 @@ FYN Broadcaster requires a valid license key for full functionality. ($150 one-t
 For technical support or licensing inquiries:
 
 - **Email**: contact@fynradio.com
-- **Website**: fynradio.com
+- **Website**: https://fynradio.com
 
 ---
 
