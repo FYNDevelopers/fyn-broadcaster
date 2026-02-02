@@ -84,7 +84,7 @@ Click the **Settings** button and enter your streaming server details:
 ### 2. Configure Recording Settings
 - Set your **Output Folder** for saved recordings
 - Upload your **Station Logo** 
-- Choose **Segment Duration**: 30 or 60 minutes
+- Choose **Segment Duration**
 
 ### 3. Start Broadcasting
 - Select your **Audio Source** from the dropdown
