@@ -1,18 +1,19 @@
 # FYN Broadcaster
 
-<p align="center">
+
+<p>
   <strong>Professional Radio Broadcasting Software for Windows</strong>
 </p>
 
-<p align="center">
+<p>
   Stream live audio to your Icecast or Shoutcast server while recording broadcasts with your station branding.
 </p>
-
+<img width="804" height="972" alt="Screenshot" src="https://github.com/user-attachments/assets/9cc9c926-edae-4ec9-b02b-ebfb1bdaa126" />
 ---
 
 ## Download
 
-**[Download FYN Broadcaster Setup (Windows)](../../releases)**
+**<a href="https://fynradio.com/software/fyn-broadcaster/FYN Broadcaster_Setup_1.2.0.exe">Download FYN Broadcaster Setup</a>**
 
 ---
 
@@ -42,13 +43,6 @@
 
 ---
 
-## Screenshots
-
-<img width="804" height="972" alt="Screenshot" src="https://github.com/user-attachments/assets/9cc9c926-edae-4ec9-b02b-ebfb1bdaa126" />
-
-
----
-
 ## System Requirements
 
 | Requirement | Specification |
@@ -63,7 +57,7 @@
 
 ## Installation
 
-1. Download the latest `FYN Broadcaster Setup x.x.x.exe` from [Releases](../../releases)
+1. Download the latest `FYN Broadcaster Setup x.x.x.exe`
 2. Run the installer
 3. Choose installation directory (default: `C:\Program Files\FYN Broadcaster`)
 4. Complete the installation wizard
