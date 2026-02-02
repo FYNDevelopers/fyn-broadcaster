@@ -149,7 +149,6 @@ FYN Broadcaster requires a valid license key for full functionality. ($150 one-t
 ## Changelog
 
 ### Version 1.2.0
-- Machine-locked licensing system
 - Improved audio quality with broadcast-mode capture
 - FFmpeg-based MP3 encoding for reliable streaming
 - Enhanced stability and error handling
