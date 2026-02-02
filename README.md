@@ -12,7 +12,7 @@
 
 ## Download
 
-**[Download FYN Broadcaster Setup (Windows)](../../releases/latest)**
+**[Download FYN Broadcaster Setup (Windows)](../../releases)**
 
 ---
 
@@ -44,7 +44,8 @@
 
 ## Screenshots
 
-*Coming soon*
+<img width="804" height="972" alt="Screenshot" src="https://github.com/user-attachments/assets/9cc9c926-edae-4ec9-b02b-ebfb1bdaa126" />
+
 
 ---
 
@@ -152,7 +153,7 @@ FYN Broadcaster requires a valid license key for full functionality.
 - Licenses are bound to one computer (machine-locked)
 - Internet connection required for license validation
 
-**To purchase a license**, contact us at: [Your contact email]
+**To purchase a license**, contact us at: contact@fynradio.com
 
 ---
 
@@ -172,8 +173,8 @@ FYN Broadcaster requires a valid license key for full functionality.
 
 For technical support or licensing inquiries:
 
-- **Email**: [Your support email]
-- **Website**: [Your website]
+- **Email**: contact@fynradio.com
+- **Website**: fynradio.com
 
 ---
 
@@ -183,6 +184,3 @@ Developed by **FYNN YATES NETWORK DEVELOPERS**
 
 ---
 
-<p align="center">
-  <em>FYN Broadcaster - Stream Live. Record Everything.</em>
-</p>
