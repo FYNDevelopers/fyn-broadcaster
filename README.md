@@ -51,7 +51,7 @@
 | RAM | 4 GB minimum |
 | Storage | 200 MB for installation |
 | Audio | Microphone or audio interface |
-| Network | Broadband internet connection |
+| Network | Internet connection |
 
 ---
 
