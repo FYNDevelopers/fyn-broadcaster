@@ -85,7 +85,7 @@ Click the **Settings** button and enter your streaming server details:
 |---------|-------------|
 | Server Type | Icecast or Shoutcast |
 | Host | Your streaming server address |
-| Port | Server port (typically 8000) |
+| Port | Server port |
 | Mount Point | Stream mount point (Icecast only) |
 | Username | Server username (Icecast: usually "source") |
 | Password | Your server password |
@@ -94,7 +94,7 @@ Click the **Settings** button and enter your streaming server details:
 
 ### 3. Configure Recording Settings
 - Set your **Output Folder** for saved recordings
-- Upload your **Station Logo** (PNG format recommended)
+- Upload your **Station Logo** 
 - Choose **Segment Duration**: 30 or 60 minutes
 
 ### 4. Start Broadcasting
@@ -122,7 +122,7 @@ Click the **Settings** button and enter your streaming server details:
 | Video Format | WebM (VP9 + Opus) |
 | Video Resolution | 640 x 360 |
 | Audio Format | MP3 (audio-only mode) |
-| Segment Options | 30 min, 60 min |
+| Segment Options | 15 min, 30 min, 60 min, 120 min |
 
 ---
 
