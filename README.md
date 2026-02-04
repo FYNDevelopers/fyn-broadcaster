@@ -136,7 +136,8 @@ Click the **Settings** button and enter your streaming server details:
 
 ## License
 
-FYN Broadcaster requires a valid license key for full functionality. ($150 one-time purchase).
+FYN Broadcaster requires a valid license key for full functionality. ($165 one-time purchase).
+**<a href="https://www.paypal.com/ncp/payment/UWRARKR8ZH4V2">Purchase License</a>**
 
 - Recording with logo and timestamp feature require an active license
 - Licenses are bound to one computer 
