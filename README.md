@@ -13,7 +13,7 @@
 
 ## Download
 
-**<a href="https://download.fynradio.com/FYN%20Broadcaster%20Setup%201.2.0.exe">Download FYN Broadcaster Setup</a>**
+**<a href="https://download.fynradio.com/releases/FYN%20Broadcaster%20Setup%201.2.1.exe">Download FYN Broadcaster Setup</a>**
 
 ---
 
@@ -147,6 +147,12 @@ FYN Broadcaster requires a valid license key for full functionality.
 ---
 
 ## Changelog
+
+### Version 1.2.1
+- Auto stream on startup option added
+- Fixed streaming disconnection and audio level meter freezing during recording segment transitions 
+- Non-blocking segment saves - Recording segment saves now use asynchronous operations that don't block the main thread
+- Optimized data transfer - Async file I/O
 
 ### Version 1.2.0
 - Improved audio quality with broadcast-mode capture
